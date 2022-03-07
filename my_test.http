@@ -1,0 +1,3 @@
+@hostname = https://app.rakuten.co.jp/services/api/IchibaItem/Search/20170706format=json/1090101428128448381/24e554d6.c5b4d4a8.24e554d7.493927e4
+
+get {{hostname}}
